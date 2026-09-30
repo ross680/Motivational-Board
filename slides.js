@@ -19,6 +19,5 @@ window.SLIDES = [
   "assets/slides/18-kobe-bryant-mamba-mentality.jpg",
   "assets/slides/19-sun-tzu-good-plan.jpg",
   "assets/slides/20-naval-play-long-term.jpg",
-  "assets/slides/21-ryan-holiday-obstacle-progress.jpg",
-  "assets/slides/22-jim-rohn-discipline-bridge.jpg"
+  "assets/slides/21-ryan-holiday-obstacle-progress.jpg"
 ];
