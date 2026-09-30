@@ -19,5 +19,13 @@ window.SLIDES = [
   "assets/slides/18-kobe-bryant-mamba-mentality.jpg",
   "assets/slides/19-sun-tzu-good-plan.jpg",
   "assets/slides/20-naval-play-long-term.jpg",
-  "assets/slides/21-ryan-holiday-obstacle-progress.jpg"
+  "assets/slides/21-ryan-holiday-obstacle-progress.jpg",
+  "assets/slides/22-ulysses-grant-continue-attack.jpg",
+  "assets/slides/23-macarthur-opportunity.jpg",
+  "assets/slides/24-nikola-tesla-future-is-mine.jpg",
+  "assets/slides/25-george-washington-perseverance.jpg",
+  "assets/slides/26-schwarzkopf-leadership-character.jpg",
+  "assets/slides/27-eisenhower-planning-is-everything.jpg",
+  "assets/slides/28-cardi-b-get-up-10.jpg",
+  "assets/slides/29-genghis-khan-dont-be-afraid.jpg"
 ];
